@@ -1,4 +1,4 @@
-package LinklistProblem.RecursionProblem;
+package RecursionProblem;
 import java.util.Scanner;
 public class SumOfInteger {
     static int sumofdigit(int n){

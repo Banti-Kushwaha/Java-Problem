@@ -1,4 +1,4 @@
-package LinklistProblem.RecursionProblem;
+package RecursionProblem;
 
 public class MaxElementOfTheArray {
     public static int max(int[] arr,int idx){

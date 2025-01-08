@@ -1,4 +1,4 @@
-package LinklistProblem.RecursionProblem;
+package RecursionProblem;
 import java.util.Scanner;
 public class MultipleOfGivenNo {
     static void mul(int n,int x){

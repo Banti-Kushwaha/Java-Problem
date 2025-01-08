@@ -1,4 +1,4 @@
-package LinklistProblem.RecursionProblem;
+package RecursionProblem;
 
 public class SumOfNaturalNoAndDiffSigns {
     public static int sum(int n){

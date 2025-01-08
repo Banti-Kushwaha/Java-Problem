@@ -1,4 +1,4 @@
-package LinklistProblem.RecursionProblem;
+package RecursionProblem;
 
 public class SumOfAllElementInArray {
     public static void main(String[] args) {
